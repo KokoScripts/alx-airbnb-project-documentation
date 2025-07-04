@@ -1,13 +1,13 @@
 
 # Airbnb Clone – User Stories
 
-## 📌 Purpose
+## Purpose
 
 This document contains user stories derived from the core use cases of the Airbnb Clone backend. These user stories describe the system's functionality from the end users' perspective and help guide feature development and testing.
 
 ---
 
-## ✅ Core User Stories
+## User Stories
 
 1. **User Registration**
    > As a user, I want to be able to register an account so that I can list or book properties on the platform.
@@ -23,10 +23,6 @@ This document contains user stories derived from the core use cases of the Airbn
 
 5. **Leaving a Review**
    > As a guest, I want to leave a review after staying at a property so that I can share my experience with others.
-
----
-
-## 🚀 Additional Stories (Optional)
 
 6. **Messaging Between Users**
    > As a guest or host, I want to send and receive messages so that we can communicate before or after a booking.
