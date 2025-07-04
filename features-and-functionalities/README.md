@@ -10,8 +10,7 @@ This document clearly **describes what each feature does**, what endpoints are n
 
 ### Diagram 
 
-![Backend requirements diagram](features-and-functionalities/requirements.drawio.png)
-
+![Backend Features Diagram](https://github.com/user-attachments/assets/0484338e-2a90-4a34-bc35-65b39430cbe0)
 
 #### **A. User Authentication**
 
