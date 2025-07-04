@@ -5,6 +5,8 @@
 This directory contains the **Use Case Diagram** for the **Airbnb Clone Backend Project**, illustrating the key user interactions with the system. It provides a high-level overview of how various types of users (guests, hosts, and admins) interact with backend functionalities such as user registration, property listings, bookings, payments, and messaging.
 
 ---
+![AirBnB Use_Case_Diagram](https://github.com/user-attachments/assets/d7dfef40-3dd1-4231-a2ea-a4c12efeae2f)
+
 
 ## 🎯 Key Actors
 
@@ -39,20 +41,5 @@ The diagram covers the following core use cases:
 - Messaging system between users
 - Review submission and viewing
 - Admin-level system management
-
----
-
-## 🖼️ Diagram File
-
-- **Filename:** `airbnb-use-case-diagram.png`
-- **Location:** `use-case-diagram/`
-- **Tool Used:** [Draw.io (diagrams.net)](https://draw.io)
-
----
-
-## ✅ How to View
-
-Simply open the `airbnb-use-case-diagram.png` image file to explore the diagram.
-
 
 
