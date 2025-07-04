@@ -8,8 +8,9 @@ This document clearly **describes what each feature does**, what endpoints are n
 
 ### **2. Functional Modules**
 
-#### Diagram 
+### Diagram 
 
+![Backend requirements diagram](features-and-functionalities/requirements.drawio.png)
 
 
 #### **A. User Authentication**
